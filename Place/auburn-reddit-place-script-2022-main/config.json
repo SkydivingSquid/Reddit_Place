@@ -1,0 +1,38 @@
+{
+  "image_path": "C:\\Users\\matth\\Desktop\\Keep_AU_Alive\\reddit-place-script-2022\\aupixels_fuckEU.png",
+  "image_start_coords": [ 1826, 342 ],
+  "thread_delay": 15,
+  "unverified_place_frequency": false,
+  "workers": {
+    "SoaR_Penguin": {
+      "password": "24F00tball",
+      "client_id": "YZqqWYcA46KcAh4VKWT1gA",
+      "client_secret": "YeImI0vPvSHF2L6fy2GLvigWUel7Bg",
+      "start_coords": [ 0, 0 ]
+    },
+    "bisweptual3000": {
+      "password": "HPotter5972",
+      "start_coords": [ 0, 0 ]
+    },
+    "strikeoutboy": {
+      "password": "qazwsxedc",
+      "start_coords": [ 0, 0 ]
+    },
+    "WixtapeTravel": {
+      "password": "momdad5!",
+      "start_coords": [ 0, 0 ]
+    },
+    "Better_Ad_1729": {
+      "password": "momdad5!",
+      "start_coords": [ 0, 0 ]
+    },
+    "WDE618": {
+      "password": "qwerty12345",
+      "start_coords": [ 0, 0 ]
+    },
+    "Gail__Wynand": {
+      "password": "KiraBean818",
+      "start_coords": [ 0, 0 ]
+    }
+  }
+}
